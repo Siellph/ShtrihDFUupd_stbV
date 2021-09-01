@@ -3,3 +3,4 @@ tmp
 tables_backup
 *.slf
 *.app_bin
+firmware
